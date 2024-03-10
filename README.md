@@ -26,19 +26,23 @@ Backend Coding with JavaScript:
 We will be setting up a Node.js environment for backend development using JavaScript.
 We will be using Express.js, a popular Node.js framework, to handle routing and middleware functions.
 We will be Implementing RESTful API endpoints to interact with the server and perform CRUD (Create, Read, Update, Delete) operations.
+
 Frontend Development with React.js:
 We will be setting up a React.js project using tools like Create React App for scaffolding.
 We will be designing and developing user interface components using JSX syntax and React hooks or class components.
 We will be utilizing React Router for client-side routing to manage navigation within the application.
 In the end we will Integrate with third-party libraries and UI frameworks as needed for enhanced functionality and styling.
+
 Database Setup with MySQL:
 We will be provisioning a MySQL database instance on the Google Cloud Platform (GCP) using services like Google Cloud SQL.
 We will configure database settings, including user permissions, access controls, and security configurations.
 We will establish connections between the Node.js backend and the MySQL database using MySQL drivers.
+
 Deployment and Hosting:
 We will deploy the Node.js backend application to Google Cloud Platform.
 We will set up continuous integration and continuous deployment (CI/CD) pipelines using tools like GitHub Actions or Jenkins for automated deployment.
 We will ensure proper monitoring and logging mechanisms are in place to track application performance, errors, and usage metrics.
+
 Data Storage and Access Control:
 We will implement data access controls and authentication mechanisms to restrict access to sensitive data.
 In the end we will be implementing backup and disaster recovery strategies to ensure data integrity and availability in case of failures or incidents.
